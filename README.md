@@ -46,6 +46,8 @@ To run the MyPharma frontend, follow these steps:
 
 Make sure to set up the backend before running the frontend. Refer to the backend repository for instructions on setting up the backend server.
 
+- **Android App apk url**: [Android App apk](https://expo.dev/artifacts/eas/woScemo3UTRS8b2KyQEBVH.aab)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
